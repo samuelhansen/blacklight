@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-gem 'blacklight', '>= 7.0'
+gem 'blacklight', '= 7.4.1'
 
 run "bundle install"
 
